@@ -13,7 +13,8 @@ xp: 100
 skills: 1
 ```
 
-the
+Welcome to the course of explainable xgboost building !
+This course will guide you through how to build explainer for xgboost model in R
 
 `@instructions`
 
@@ -40,3 +41,16 @@ the
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: e237af3bee
+xp: 50
+```
+
+`@projector_key`
+1ae0c9f3286d3695990e72b32282f712
